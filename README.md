@@ -1,2 +1,2 @@
-# ECOmmerce
-Internship Project for MERN Stack
+# ECommerce
+Internship Project (1) for MERN Stack
